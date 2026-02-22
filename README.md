@@ -129,3 +129,14 @@ Navigate to **[http://localhost:5000](http://localhost:5000)**
 This dashboard is the visual layer on top of the full analysis pipeline. For the data preprocessing, EDA, and credit risk modelling work, see:
 
 👉 **[manoj-s-7/Credit-Risk-Evaluation](https://github.com/manoj-s-7/Credit-Risk-Evaluation)**
+ ---
+
+## 👨‍💻 Developed By
+
+- **Manoj S**  
+  GitHub: https://github.com/manoj-s-7
+
+- **Manthan**  
+  GitHub: https://github.com/manthan-x712
+
+---
